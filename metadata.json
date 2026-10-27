@@ -1,0 +1,6 @@
+{
+  "name": "Prompt Library",
+  "description": "Compact, professional Prompt Library with Google Sheets & Apps Script sync, variables support, copy history, and instant search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
